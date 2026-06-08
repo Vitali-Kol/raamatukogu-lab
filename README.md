@@ -15,9 +15,9 @@ Süsteem jälgib aktiivseid laene, tagastusi ja kasutajate statistikat.
 
 ## Käivitamine
 
-npm install
-npm start
-ja server töötab: http://localhost:3000
+* npm install
+* npm start
+* ja server töötab: http://localhost:3000
 
 ## Testikasutajad
 
@@ -64,8 +64,8 @@ POST /api/users/signup
 
 ## Testid
 
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-npm test
+* Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+* npm test
 
 
 ## GitHub Actions
