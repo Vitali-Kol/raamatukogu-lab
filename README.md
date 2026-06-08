@@ -15,6 +15,8 @@ Süsteem jälgib aktiivseid laene, tagastusi ja kasutajate statistikat.
 
 ## Käivitamine
 
+* git clone https://github.com/Vitali-Kol/raamatukogu-lab.git
+* cd raamatukogu-lab
 * npm install
 * npm start
 * ja server töötab: http://localhost:3000
